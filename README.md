@@ -2,6 +2,7 @@
 <h2>Prints properties about and element for a given element name</h2>
 
 <li>Hashtables are used, and the chemistry elements and their properties are read from a txt file</li>
+<br>
 
 For example:
 > Input: K or k <br>
