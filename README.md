@@ -5,10 +5,10 @@
 <br>
 
 For example:
-> Input: <b>K or k <b><br>
-> Output: Potassium, Proton/Atomic Number: 19, Neutron Number: 20, Mass Number: 39.0983 amu <br>
+> Input: <b>K or k </b><br>
+> Output: <b>Potassium, Proton/Atomic Number: 19, Neutron Number: 20, Mass Number: 39.0983 amu </b><br>
 
 Or <br>
 
-> Input: <b>Pu or pu <b><br>
-> Output: <b>Plutonium, Proton/Atomic Number: 94, Neutron Number: 150, Mass Number: 244 amu<b>
+> Input: <b>Pu or pu </b><br>
+> Output: <b>Plutonium, Proton/Atomic Number: 94, Neutron Number: 150, Mass Number: 244 amu</b>
